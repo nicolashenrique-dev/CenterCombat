@@ -1,23 +1,52 @@
-# Center Combat Muay Thai Academy
+# Center Combat – Centro de Artes Marciais
 
-Welcome to the Center Combat Muay Thai Academy! Here, we strive to provide the best training in Muay Thai techniques and fitness through professionally designed classes and individualized training programs.
 
-## Academy Overview
-Our academy offers classes for all skill levels, from beginners to advanced practitioners. We prioritize a safe and nurturing environment where students can learn and improve their Muay Thai skills.
+Site oficial da **Center Combat Muay Thai** em Andradina/SP.
 
-## Class Types
-- **Beginner Classes:** Focus on the fundamentals of Muay Thai, including basic techniques and conditioning.
-- **Advanced Classes:** Tailored for experienced practitioners looking to refine their skills and learn advanced techniques.
-- **Private Lessons:** One-on-one coaching to address specific goals and skills.
+Uma landing page moderna, rápida e totalmente responsiva, desenvolvida com HTML5 + CSS3 puro (sem frameworks), com design dark cyber/martial arts.
 
-## Facilities
-Our state-of-the-art facilities include:
-- Spacious training areas
-- Professional-grade equipment
-- Showers and locker rooms
+## ✨ Demonstração
 
-## Instructors
-Our team of instructors are highly trained and experienced Muay Thai practitioners dedicated to helping students achieve their fitness and martial arts goals.
+🔗 **Acesse o site:https://center-beryl.vercel.app/** )  
 
-## Join Us
-Are you ready to start your journey in Muay Thai? Contact us today for more information on how to enroll or visit our website at [Center Combat](http://centercombat.example.com) for further details.
+
+## 🎯 Sobre o Projeto
+
+Landing page institucional para o centro de Muay Thai **Center Combat**, localizada em Andradina, São Paulo.
+
+O site foi criado com o objetivo de:
+- Atrair novos alunos
+- Apresentar as turmas disponíveis (Mista, Feminina, Kids e Recreativo)
+- Mostrar os benefícios do Muay Thai
+- Facilitar o contato via WhatsApp
+- Transmitir força, disciplina e energia da arte marcial
+
+## 🚀 Funcionalidades
+
+- Design moderno dark com neon cyan (estilo cyber martial)
+- Totalmente responsivo (mobile-first)
+- Menu hamburger para dispositivos móveis
+- Animações suaves e efeitos de glow
+- Partículas flutuantes no Hero
+- Contadores animados nas estatísticas
+- Galeria de fotos com Lightbox
+- Depoimentos de alunos
+- Integração direta com WhatsApp (vários links pré-configurados)
+- Mapa interativo do Google
+- Botão flutuante do WhatsApp com animação
+- SEO otimizado (meta tags, descrição, etc.)
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5** Semântico
+- **CSS3** puro (Flexbox, Grid, Variáveis CSS, Animações)
+- Google Fonts (Bebas Neue + Barlow)
+- Unsplash (imagens de demonstração)
+- JavaScript Vanilla (sem dependências externas)
+
+## 📁 Estrutura de Pastas
+
+center-combat/
+├── index.html          ← Arquivo principal
+├── README.md
+└── assets/             ← (futuro: imagens locais, ícones, etc.)
